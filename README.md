@@ -1,6 +1,6 @@
 # Nucleo — DNA Sequence Visualizer
 
-A dark-mode Python web app for introductory DNA sequence analysis.
+A Python web app for introductory DNA sequence analysis.
 
 ## Features
 - Complementary DNA strand
